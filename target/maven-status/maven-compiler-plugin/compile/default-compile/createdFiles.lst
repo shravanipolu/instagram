@@ -1,0 +1,8 @@
+com\instapojos\InstaPojo.class
+com\instavaidation\InstaValidater.class
+com\instacontrollers\UserCustomerController.class
+com\iregisterDao\RegisterJdbcDao.class
+com\instacontrollers\RegisterCustomerController.class
+com\iregisterDao\IRegisterDao.class
+com\instacontrollers\LoginCustomerController.class
+RegisterDao\RegisterDaoImpl.class
